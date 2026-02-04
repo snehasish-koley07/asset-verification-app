@@ -1,21 +1,16 @@
-# asset-verification-app
-Application for asset verification and reconciliation during audit processes
-# Asset Verification & Reconciliation Application
+# store_verification_app
 
-## Overview
-This application is designed to support physical asset verification during audits.
-It helps in reconciling asset records with physical verification results and
-identifying shortages and excess assets.
+A new Flutter project.
 
-## Key Features
-- Asset ID–based verification
-- Shortage and excess identification
-- Reconciliation support for audit working papers
-- Simple and user-friendly workflow
+## Getting Started
 
-## Use Case
-Used during internal and financial audits to improve accuracy and efficiency
-in asset verification and reporting.
+This project is a starting point for a Flutter application.
 
-## Status
-Prototype / Internal use project
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
