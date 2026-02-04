@@ -17,3 +17,7 @@ in asset verification and reporting.
 
 ## Status
 Prototype / Internal use project
+## Screenshots
+Screenshots of the application UI are available in the screenshots folder.
+
+
